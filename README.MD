@@ -12,6 +12,10 @@ Contributions are always welcome!
 - [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/19ELb_KZI4eIdT6Xj0O9A6xkQfd6kRFwtQ-9xtAGclqA/edit#heading=h.2gazcsgmxkub)
 - (Alternate categorized version) [Pytorch AMA 11.09.2018](https://docs.google.com/document/d/1tvq1fq1BoeJ4reKf_WfFhcXhY3sfOazwKoZC6vq3gjk/edit)
 
+- [AMA Session Wednesday, November 14th @ 4PM PST](https://slack-files.com/files-pri-safe/TDBKE3X9D-FE45NN5BL/pytorch_facebook_scholarship_ama_181114.pdf?c=1542254974-3abc545b243d7de481d2fb193ebbaddfd99526cb)
+
+- [AMA_Session Transcript,Thurs , 11/15/18](https://slack-files.com/files-pri-safe/TDBKE3X9D-FE58W5GP7/ama-4_transcribe_15.11.18.pdf?c=1542336165-fbe529cf9961b022229bae9f5ee7b722b00a87d3)
+
 # Resources
 
 - [Resources](#resources)
@@ -67,6 +71,7 @@ Courses that can you take alongside PyTorch scholarship course both Python and M
 * [EDX - Introduction to Python: Fundamentals](https://courses.edx.org/courses/course-v1:Microsoft+DEV274x+3T2018/course/)
 
 * [EDX - Introduction to Python: Absolute Beginner](https://courses.edx.org/courses/course-v1:Microsoft+DEV236x+3T2018/course/)
+* [Udemy - Machine Learning MasterClass](https://www.udemy.com/machine-learning-masterclass/)
 
 ## Articles
 
@@ -74,7 +79,7 @@ Content published on the Web.
 
 * [PyTorch 101 for Dummies](https://medium.com/@dassangeet768/pytorch-101-for-dummies-like-me-2adfe3af2e40)
 * [Using PyTorch with GPU in Google Colab](https://jovianlin.io/pytorch-with-gpu-in-google-colab/)
-
+* [The best resources for Deep Learning from beginner to advance](https://www.kaggle.com/getting-started/37999)
 
 ## Tutorials
 
@@ -82,8 +87,6 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 
 
 * [Chintala's 60 Minute PyTorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-
-* [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
 
 * [Pytorch Official List of Tutorials](https://pytorch.org/tutorials/)
 
@@ -98,6 +101,8 @@ Walkthroughs and tutorials that help you learn ML and PyTorch.
 * [Deep Learning Tutorial - LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf )
 
 * [Numpy Tutorial - Stanford CS231n](https://cs231n.github.io/python-numpy-tutorial)
+
+* [Kaggle tutorial for deep learning beginners](https://kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 
 ## Jupyter Notebooks
 
@@ -139,6 +144,8 @@ An assortment of conference and training videos.
 ## Blogs
 
 * [Neural Network for beginners blog](https://blog.statsbot.co/neural-networks-for-beginners-d99f2235efca)
+* [Tutorial to take you from beginner to expert in Machine Learning](https://machinelearningmastery.com)
+* [Computer Vision for Python](https://www.pyimagesearch.com)
 
 ## Misc
 
